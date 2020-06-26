@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    color: hsl(48, 100%, 93%);
+    font-size: 3.125rem;
+    font-family: Verdana;
+}
+
+a {
+    color: hsl(160, 100%, 75%);
+    font-size: 1rem;
+    
+}
+
+header h1 {
+    font-weight: 400;
+}
+
+#content h1 {
+    font-size: 2.625rem;
+    font-weight: 300;
+}
+
+#content p {
+    font-size: 1.3125rem;
+    color: hsl(0, 0%, 50%);
+}
+
+.icon {
+    padding: 2rem ;
+}
+
+.icon h1 {
+    font-size: 2.625rem;
+    font-weight: 300;
+}
+
+footer {
+    text-align: right;
+    color: hsl(0, 0%, 50%);
+    font-size: 1.4rem;
+}
